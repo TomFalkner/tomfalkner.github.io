@@ -1,0 +1,8 @@
+body {
+    font-family: sans-serif;
+}
+
+.projects img {
+    max-width: 80%;
+    width: 80%;
+}
